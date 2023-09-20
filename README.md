@@ -7,4 +7,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLira01)](https://github.com/anuraghazra/github-readme-stats)
 
-Sou Breno, um entusiasta da programação apaixonado por tecnologia.
