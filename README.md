@@ -18,4 +18,4 @@
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoLira01&show_icons=true&theme=dark)
 
 ### Onde me encontrar:
-![(https://camo.githubusercontent.com/72c53a678b013d703aa827578eb7907e231b85c1cea9c40dcd6ba4e266ee1340/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323230302e706e67)]
+[![Email](https://camo.githubusercontent.com/72c53a678b013d703aa827578eb7907e231b85c1cea9c40dcd6ba4e266ee1340/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323230302e706e67)] (franciscobrenolira@gmail.com)
