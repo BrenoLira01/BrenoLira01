@@ -1,9 +1,11 @@
 <h1 align="left"> 👋 Olá! Eu sou Francisco Breno </h1>
-
+<h1></h1>
 ### Sobre mim
 
 <p>• 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá<./p>
-<p>• 🌱 Aprendendo sobre JavaScript, HTML e CSS.</p>
+<p>• 🌱 Aprendendo sobre JavaScript, HTML e CSS. </p>
+
+<h1></h1>
 
 ### Minhas Skills
 
