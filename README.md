@@ -18,4 +18,4 @@
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoLira01&show_icons=true&theme=dark)
 
 ### Onde me encontrar:
-[![Email](https://cdn-icons-png.flaticon.com/512/5968/5968534.png)](mailto:franciscobrenolira@gmail.com)
+[![Email](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](mailto:franciscobrenolira@gmail.com)
