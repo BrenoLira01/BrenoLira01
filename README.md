@@ -1,4 +1,4 @@
-<h1 align="left" font= 1pt > Olá! Eu sou Francisco Breno </h1>
+<h1 align="left"> Olá! Eu sou Francisco Breno </h1>
 <p>• 📚 Estudante de ADS Universidade Estácio de Sá</p>
 
 <br>
@@ -15,6 +15,6 @@
 
 <br>
 
-___
+<h1></h1>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscobrenolira@gmail.com)
