@@ -16,5 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLira01&langs_count=8)
 
 <br>
-***
+
+*** 
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscobrenolira@gmail.com)
