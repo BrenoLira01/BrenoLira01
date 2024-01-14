@@ -3,6 +3,7 @@
 ### Sobre mim
 <p>• 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. </p>
 <p>• 🌱 Aprendendo sobre JavaScript, HTML e CSS. </p>
+<p> 🕹️ Fã de jogos de rpg </p>
 
 <h1></h1>
 
@@ -24,4 +25,5 @@
 
 ### Onde me encontrar 
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscobrenolira@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscobrenolira@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-lira-b1b0342a9/)
+
