@@ -3,7 +3,7 @@
 ### Sobre mim
 <p>• 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. </p>
 <p>• 🌱 Aprendendo sobre JavaScript, HTML e CSS. </p>
-<p> 🕹️ Fã de jogos de rpg </p>
+<p>• 🕹️ Fã de jogos de rpg </p>
 
 ### Estudando 
 
